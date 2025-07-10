@@ -1,3 +1,5 @@
+#NFL Game Outcome Predictor
+
 A Python-based machine learning pipeline for forecasting NFL game outcomes using historical data. This repository includes:
 
 Data Processing & Feature Engineering
