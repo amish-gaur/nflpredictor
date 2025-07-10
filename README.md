@@ -15,14 +15,3 @@ Exploratory Analysis Notebook
 superbowl2025.ipynb walks through EDA, visualization of team trends, and initial model prototyping.
 
 Built with pandas, scikit-learn, and matplotlib, NFL Predictor delivers end-to-end reproducibility—from raw data to actionable matchup predictions.
-
-
-
-
-
-
-
-
-
-Sources
-
